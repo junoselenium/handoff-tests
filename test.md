@@ -1,1 +1,1 @@
-Example text
+System.IO.FileStream
