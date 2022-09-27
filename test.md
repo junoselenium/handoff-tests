@@ -1,6 +1,6 @@
 <properties
-	pageTitle="Example"
-	description="Demonstrating a change in description"
+	pageTitle="Examples"
+	description="Demonstrating the text file"
 	authors="microsoft"
 	ms.author="ms"
 	displayOrder="1"
